@@ -1,0 +1,97 @@
+body{
+    background-color: bisque;
+    margin: 50px 0;
+    
+}
+
+
+
+.title2{
+    background-color: hsla(332, 52%, 51%, 0.104);
+    
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.product-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    width: 600px;
+    height: fit-content;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+  }
+  .product-image {
+    width: 100%;
+    border-radius: 8px;
+  }
+  h1{
+    color: hsl(24, 5%, 18%);
+    font-family: "Outfit", sans-serif;
+    margin-left: 20px ;
+  
+  }
+  
+  h2{
+    color: hsl(14, 45%, 36%);
+    font-family: "Outfit";
+    font-weight:500;
+    margin-left: 20px ;
+  }
+  h3{
+    font-family: "Outfit";
+    margin-left: 20px ;
+    color: hsl(332, 51%, 32%);
+  }
+  p{
+    font-family: "Outfit";
+    margin-left: 20px ;
+    margin-right: 20px;
+    color: hsl(30, 10%, 34%);
+  }
+ 
+ table{
+    margin-left: 20px;
+    font-family: "Outfit";
+    color: hsl(30, 10%, 34%);
+    
+    
+ }
+ .Calories{
+    width: 70px;
+    padding-right: 250px;}
+ .Carbs{
+    width: 70px;
+    padding-right: 250px;}
+ .Protein{
+    width: 70px;
+    padding-right: 250px;}
+ .Fat{
+    width: 70px;
+    padding-right: 250px;}
+
+.Cgrams{
+    color: hsl(14, 45%, 36%);
+}
+.kcal{
+    color: hsl(14, 45%, 36%);
+}
+.Pgrams{
+    color: hsl(14, 45%, 36%);
+}
+.Fgrams{
+    color: hsl(14, 45%, 36%);
+}
+
+strong{
+    color: hsl(30, 10%, 34%);
+}
+
+.attribution{
+    padding: 50px;
+}
